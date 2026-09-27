@@ -1,0 +1,107 @@
+{
+  "slug": "guitarclear",
+  "box": 23,
+  "date": "2026-10-03",
+  "title": "GuitarClear",
+  "question": "How does a guitar work?",
+  "hook": "Six strings pulling with 73 kg, a thin spruce top that pumps the air, and a magnet that hears steel move. Pluck, fret and strum a guitar in 3D, then plug it in and push the amp until it clips.",
+  "thumbText": "HOW A GUITAR WORKS",
+  "field": "sound",
+  "minutes": 14,
+  "tags": [
+    "guitar",
+    "acoustic guitar",
+    "electric guitar",
+    "music",
+    "sound",
+    "strings",
+    "harmonics",
+    "frets",
+    "pickups",
+    "distortion",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Six strings between two points",
+      "text": "A guitar's strings run from the saddle on the bridge to the nut at the top of the neck. All six are the same length, so their notes, from E at 82.4 Hz to E at 329.6 Hz, are set by how tight and how heavy each one is: f = (1/2L)·√(T/μ). Together they pull with about 73 kg."
+    },
+    {
+      "title": "Where you pluck changes the tone",
+      "text": "A plucked string vibrates as a whole and in halves, thirds and quarters at once. Any harmonic with a still point where you pluck goes missing, so plucking near the bridge sounds bright and plucking in the middle sounds round. Touch the string lightly at the 12th fret and only the harmonics with a node there ring: a chiming octave."
+    },
+    {
+      "title": "Frets divide the octave into twelve",
+      "text": "Each fret shortens the vibrating string by the same factor, 2^(−1/12) ≈ 0.944, which raises the note one semitone. The 12th fret sits exactly halfway, 325 mm from the nut on a 650 mm classical guitar, and the frets crowd closer together as you go up."
+    },
+    {
+      "title": "The body does the shouting",
+      "text": "A string alone is almost silent, because air slips around it. The bridge rocks the thin spruce top, which pumps the air like a loudspeaker, and the air in the box bounces in and out of the sound hole like air in a bottle. Together they make strong resonances near 100 Hz and 200 Hz."
+    },
+    {
+      "title": "A pickup is Faraday's law",
+      "text": "An electric guitar's pickup is a magnet inside a coil of about 8,000 turns of fine wire. The moving steel string changes the magnetic flux through the coil, which makes a voltage of a few tenths of a volt. A humbucker's two reversed coils cancel mains hum but add up the string's signal."
+    },
+    {
+      "title": "Distortion is clipping on purpose",
+      "text": "An amplifier makes the pickup's signal many times bigger. Push it past its limit and the tops of the wave are cut off, which adds new harmonics that were never in the string. Soft clipping, like an overdriven valve, adds them gently. Hard clipping sounds fizzier."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Frequency",
+      "def": "How many times a second something vibrates, in hertz (Hz). The low E string vibrates 82.4 times a second."
+    },
+    {
+      "term": "Harmonic",
+      "def": "A vibration of a string in 2, 3, 4… equal parts, at 2, 3, 4… times the main note. The mix of harmonics is the tone."
+    },
+    {
+      "term": "Node",
+      "def": "A point on a vibrating string that stays still."
+    },
+    {
+      "term": "Equal temperament",
+      "def": "A tuning where every semitone has the same frequency ratio, 2^(1/12), so twelve of them make an octave."
+    },
+    {
+      "term": "Soundboard",
+      "def": "The thin wooden top of an acoustic guitar that the bridge shakes to push the air."
+    },
+    {
+      "term": "Helmholtz resonator",
+      "def": "A box of air with a hole. The air in the hole bounces on the springy air inside, like blowing across a bottle."
+    },
+    {
+      "term": "Pickup",
+      "def": "A magnet inside a coil of fine wire that turns a steel string's motion into a small voltage."
+    },
+    {
+      "term": "Humbucker",
+      "def": "A pickup with two coils wound in opposite directions, so hum cancels while the string's signal adds."
+    },
+    {
+      "term": "Clipping",
+      "def": "When a signal is pushed past an amplifier's limit, so the tops of the wave are cut off and new harmonics appear."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "guitarclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

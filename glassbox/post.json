@@ -1,0 +1,126 @@
+{
+  "slug": "guitarclear",
+  "box": 23,
+  "question": "How does a guitar work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/guitarclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/guitarclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "5,000 years from a lute on a clay seal to the electric guitar, the dreadnought and the Indian slide guitar.\n\n1536: The first book for the vihuela\n1779: Six single strings\n1850: An X under the top\n1852: Torres builds the modern classical guitar\n1931: The Frying Pan\n1936: The electric guitar joins the band\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/guitarclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/guitarclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #guitar #acousticguitar #electricguitar #music #sound #strings #history",
+      "youtube": {
+        "title": "The history of the guitar in 45 seconds #shorts",
+        "description": "5,000 years from a lute on a clay seal to the electric guitar, the dreadnought and the Indian slide guitar.\n\n1536 · The first book for the vihuela (Luys Milán)\n1779 · Six single strings (Gaetano Vinaccia)\n1850 · An X under the top (C. F. Martin & Co.)\n1852 · Torres builds the modern classical guitar (Antonio de Torres Jurado)\n1931 · The Frying Pan (George Beauchamp, Paul Barth and Adolph Rickenbacker)\n1936 · The electric guitar joins the band (Gibson; Charlie Christian)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/guitarclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/guitarclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a guitar work?\n\nSix strings pulling with 73 kg, a thin spruce top that pumps the air, and a magnet that hears steel move. Pluck, fret and strum a guitar in 3D, then plug it in and push the amp until it clips.\n\n→ A guitar is six strings, a neck with frets, and a hollow wooden box.\n→ An electric swaps the hollow box for a solid body and magnetic pickups.\n→ A plucked string swings as a whole, and in halves, thirds and quarters at once.\n→ Pluck it in the middle and every even harmonic goes missing: a softer, rounder note.\n→ Each fret shortens the string by the same 5.6%, so the 12th fret sits exactly halfway.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/guitarclear (link in bio)\n\nBox No. 023 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #guitar #acousticguitar #electricguitar #music #sound #strings #harmonics #frets #pickups",
+    "carousel": "Swipe through: How does a guitar work?\n\nSix strings pulling with 73 kg, a thin spruce top that pumps the air, and a magnet that hears steel move. Pluck, fret and strum a guitar in 3D, then plug it in and push the amp until it clips.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/guitarclear (link in bio).\n\nBox No. 023 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #guitar #acousticguitar #electricguitar #music #sound #strings",
+    "youtube": {
+      "title": "How does a guitar work? #shorts",
+      "description": "Six strings pulling with 73 kg, a thin spruce top that pumps the air, and a magnet that hears steel move. Pluck, fret and strum a guitar in 3D, then plug it in and push the amp until it clips.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/guitarclear/\n⌘ Source code (MIT): https://github.com/bdeeps/guitarclear\n\nBox No. 023 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a guitar work? (interactive explainer)",
+      "description": "Six strings pulling with 73 kg, a thin spruce top that pumps the air, and a magnet that hears steel move. Pluck, fret and strum a guitar in 3D, then plug it in and push the amp until it clips.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/guitarclear/\n⌘ Source code (MIT): https://github.com/bdeeps/guitarclear\n\nIn this video:\n• Six strings between two points. A guitar's strings run from the saddle on the bridge to the nut at the top of the neck.\n• Where you pluck changes the tone. A plucked string vibrates as a whole and in halves, thirds and quarters at once.\n• Frets divide the octave into twelve. Each fret shortens the vibrating string by the same factor, 2^(−1/12) ≈ 0.944, which raises the note one semitone.\n• The body does the shouting. A string alone is almost silent, because air slips around it.\n• A pickup is Faraday's law. An electric guitar's pickup is a magnet inside a coil of about 8,000 turns of fine wire.\n• Distortion is clipping on purpose. An amplifier makes the pickup's signal many times bigger.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a guitar work?\n\nSix strings pulling with 73 kg, a thin spruce top that pumps the air, and a magnet that hears steel move.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/guitarclear/",
+    "linkedin": "How does a guitar work?\n\nSix strings pulling with 73 kg, a thin spruce top that pumps the air, and a magnet that hears steel move. Pluck, fret and strum a guitar in 3D, then plug it in and push the amp until it clips.\n\n1. Six strings between two points\n2. Where you pluck changes the tone\n3. Frets divide the octave into twelve\n4. The body does the shouting\n5. A pickup is Faraday's law\n6. Distortion is clipping on purpose\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 023 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/guitarclear/\nCode: https://github.com/bdeeps/guitarclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T10:13:23.476Z"
+}

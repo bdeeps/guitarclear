@@ -1,0 +1,1054 @@
+{
+  "title": "The history of the guitar",
+  "tagline": "5,000 years from a lute on a clay seal to the electric guitar, the dreadnought and the Indian slide guitar.",
+  "intro": "For thousands of years, people have stretched strings along a neck over a hollow body and pressed them to change the note. The guitar took its shape in Spain, gained a sixth string in Italy, and got its modern body from Antonio de Torres and C. F. Martin. Then players wanted to be louder: steel strings, metal cones and finally magnets and coils turned the guitar electric, and from Hawaii to India, musicians kept reinventing it.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Lutes and ouds",
+      "from": -3100,
+      "to": 1500,
+      "color": "#c49bff",
+      "summary": "Long-necked lutes appear in Mesopotamia, and the oud travels with Arab rulers to Spain, where the guitar story begins."
+    },
+    {
+      "id": "courses",
+      "name": "Pairs of strings",
+      "from": 1500,
+      "to": 1780,
+      "color": "#ffb547",
+      "summary": "Spain’s vihuela and the five-course baroque guitar use pairs of strings. Handbooks teach people to strum chords, and even Stradivari builds guitars."
+    },
+    {
+      "id": "sixstring",
+      "name": "Six strings and a singing top",
+      "from": 1779,
+      "to": 1892,
+      "color": "#ff7a59",
+      "summary": "Six single strings arrive, and makers learn to brace thin tops: fans in Torres’s Spain, an X at Martin’s shop in Pennsylvania."
+    },
+    {
+      "id": "steel",
+      "name": "Steel and volume",
+      "from": 1889,
+      "to": 1950,
+      "color": "#5ce1a9",
+      "summary": "Steel strings, bigger bodies, slides and metal cones make the guitar louder, and the Hawaiian steel guitar travels the world."
+    },
+    {
+      "id": "electric",
+      "name": "Magnets and wire",
+      "from": 1931,
+      "to": 1960,
+      "color": "#7aa2ff",
+      "summary": "Pickups turn string vibrations into electricity. Hollow electrics, then solid bodies and the humbucker, make the electric guitar a mass product."
+    },
+    {
+      "id": "loud",
+      "name": "Loud and global",
+      "from": 1958,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Distortion becomes the sound of rock, television spreads guitar mania, and Indian musicians turn the slide guitar into a classical instrument."
+    }
+  ],
+  "events": [
+    {
+      "year": -3100,
+      "date": "c. 3100 BCE or earlier",
+      "era": "ancient",
+      "art": "person",
+      "title": "A lute on a clay seal",
+      "who": "Unknown Mesopotamian musicians",
+      "where": "Mesopotamia (today Iraq)",
+      "country": "Iraq",
+      "text": "A cylinder seal in the British Museum, dated to about 3100 BCE or earlier, seems to show a woman playing a long-necked lute. The idea is simple: strings stretched along a neck over a hollow body. Press a string against the neck and it plays a higher note.",
+      "why": "Every guitar still works this way: a string, a neck to shorten it, and a body to make it louder.",
+      "box": "strings",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 850,
+      "date": "9th century (attributed)",
+      "era": "ancient",
+      "art": "guitar",
+      "title": "The oud comes to Spain",
+      "who": "Ziryab (attributed)",
+      "where": "Córdoba, al-Andalus (today Spain)",
+      "country": "Spain",
+      "text": "After 711, Arab and Berber rulers brought the oud, a round-backed lute, to al-Andalus in Spain. The musician Ziryab (789–857) is said to have added a fifth string to his oud and founded a music school there. Spain became one of the doors through which the lute entered Europe.",
+      "why": "The guitar grew up in Spain, alongside the lute family that the oud brought there.",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1536,
+      "date": "1536",
+      "era": "courses",
+      "art": "scroll",
+      "key": true,
+      "title": "The first book for the vihuela",
+      "who": "Luys Milán",
+      "where": "Valencia, Spain",
+      "country": "Spain",
+      "text": "The vihuela had a flat, waisted body like a guitar and six pairs of strings, tuned like a lute. In 1536 Luys Milán published El Maestro, the first printed collection of music for it. Players pressed the strings against frets on the neck to pick out each note.",
+      "why": "The guitar shape and the idea of frets for every note were already in place 500 years ago.",
+      "box": "frets",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1596,
+      "date": "1596 (first edition lost)",
+      "era": "courses",
+      "art": "word",
+      "title": "The first guitar handbook",
+      "who": "Joan Carles Amat",
+      "where": "Catalonia, Spain",
+      "country": "Spain",
+      "text": "Joan Carles Amat wrote a treatise on the five-course Spanish guitar, first printed in 1596. That edition is lost; the oldest surviving copy was printed in Lleida in 1626. It is considered the first known guitar treatise in Europe.",
+      "why": "It taught ordinary people to strum chords, which helped the guitar spread far beyond the court.",
+      "sources": [
+        5,
+        4
+      ]
+    },
+    {
+      "year": 1674,
+      "date": "1674",
+      "era": "courses",
+      "art": "notes",
+      "title": "Strummed and plucked",
+      "who": "Gaspar Sanz",
+      "where": "Zaragoza, Spain",
+      "country": "Spain",
+      "text": "Gaspar Sanz published a big method for the five-course baroque guitar in 1674. It mixed strummed pieces (rasgueado) with plucked ones (punteado), from courtly dances to popular tunes. It became the most complete baroque guitar method.",
+      "why": "Guitarists still play Sanz today, and still switch between strumming and picking.",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1700,
+      "date": "1700",
+      "era": "courses",
+      "art": "guitar",
+      "title": "Stradivari makes guitars too",
+      "who": "Antonio Stradivari",
+      "where": "Cremona, Italy",
+      "country": "Italy",
+      "text": "The famous violin maker also built guitars with five pairs of strings. The Rawlins, made in 1700, is one of only a handful of Stradivari guitars that survive; another, the Sabionari of 1679, can still be played. The Rawlins is kept at the National Music Museum in Vermillion, South Dakota.",
+      "why": "The best instrument makers of the age treated the guitar as worth their finest work.",
+      "box": "body",
+      "sources": [
+        8,
+        9,
+        4
+      ]
+    },
+    {
+      "year": 1779,
+      "date": "1779",
+      "era": "sixstring",
+      "art": "string",
+      "key": true,
+      "title": "Six single strings",
+      "who": "Gaetano Vinaccia",
+      "where": "Naples, Italy",
+      "country": "Italy",
+      "text": "Late in the 1700s, makers in Italy and southern France began fitting single strings instead of pairs, and added a sixth. A guitar labelled Gaetano Vinaccia, Naples, 1779 is widely considered the earliest surviving unmodified six-string guitar. Neapolitan makers such as the Fabricatore family soon made many more.",
+      "why": "Six single strings, tuned E A D G B E, is the guitar almost everyone plays today.",
+      "box": "strings",
+      "sources": [
+        10,
+        11,
+        54
+      ]
+    },
+    {
+      "year": 1833,
+      "date": "1833",
+      "era": "sixstring",
+      "art": "building",
+      "title": "A German maker opens shop in New York",
+      "who": "Christian Frederick Martin",
+      "where": "New York City, USA",
+      "country": "United States",
+      "text": "C. F. Martin, a guitar maker from Markneukirchen in Saxony, arrived in New York in 1833 and opened a small shop. In 1839 the company moved to Nazareth, Pennsylvania, where it still makes guitars today. It is still run by the Martin family.",
+      "why": "Martin went on to shape the American steel-string guitar more than any other maker.",
+      "sources": [
+        13,
+        14,
+        16,
+        15
+      ]
+    },
+    {
+      "year": 1850,
+      "date": "1850s (credited)",
+      "era": "sixstring",
+      "art": "guitar",
+      "key": true,
+      "title": "An X under the top",
+      "who": "C. F. Martin & Co.",
+      "where": "Nazareth, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Inside the top of a guitar are thin wooden struts called braces. Martin is generally credited with developing X-bracing in the 1850s: two braces crossing in an X below the sound hole. Historians say Martin may not have invented it, but was the first to use it on a large scale.",
+      "why": "X-bracing let a thin top survive the pull of steel strings, and nearly every steel-string guitar uses it today.",
+      "box": "body",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852–1870 (first period)",
+      "era": "sixstring",
+      "art": "guitar",
+      "key": true,
+      "title": "Torres builds the modern classical guitar",
+      "who": "Antonio de Torres Jurado",
+      "where": "Seville, Spain",
+      "country": "Spain",
+      "text": "Antonio de Torres made his guitars bigger, but with thinner, lighter tops held up by a fan of braces. In 1862 he even built one with papier-mâché back and sides, to show that the top, not the back, makes the sound. He used a string length of about 650 mm, which classical makers still follow.",
+      "why": "Most classical guitars today are still built to Torres’s plan.",
+      "box": "body",
+      "sources": [
+        12,
+        3
+      ]
+    },
+    {
+      "year": 1889,
+      "date": "1889 (as he told it)",
+      "era": "steel",
+      "art": "string",
+      "title": "A bolt on the road",
+      "who": "Joseph Kekuku",
+      "where": "Honolulu, Hawaii",
+      "country": "United States",
+      "text": "Joseph Kekuku said that as a schoolboy in Honolulu he picked up a bolt and slid it along his guitar strings. He refined the trick with a polished steel bar, playing with the guitar flat on his lap. He took this Hawaiian steel guitar on tours of America and Europe.",
+      "why": "Sliding a bar instead of pressing frets gave the guitar a gliding, singing voice that later travelled to India.",
+      "box": "frets",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1916,
+      "date": "1916, then 1931",
+      "era": "steel",
+      "art": "guitar",
+      "title": "The dreadnought",
+      "who": "C. F. Martin & Co. and Oliver Ditson Co.",
+      "where": "Nazareth, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Players wanted louder guitars, and by 1921 Martin was mostly making steel-string guitars. In 1916 Martin built a big, deep body for the Ditson company, named after a huge battleship. Martin sold it under its own name from 1931, with X-bracing, and it became its best seller.",
+      "why": "The big-bodied dreadnought became the shape most people picture when they think \"acoustic guitar\".",
+      "box": "body",
+      "sources": [
+        13,
+        17,
+        14
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1–2 August 1927",
+      "era": "steel",
+      "art": "person",
+      "title": "The Carter scratch",
+      "who": "Maybelle Carter",
+      "where": "Bristol, Tennessee, USA",
+      "country": "United States",
+      "text": "At the Bristol sessions in 1927, the Carter Family made their first records. Maybelle Carter, then 18, played the melody on the low strings with her thumb while brushing the high strings for rhythm. Her style became known as the Carter scratch.",
+      "why": "She showed that one guitar could play melody and rhythm at once, and generations of guitarists copied her.",
+      "box": "strings",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1927–1928",
+      "era": "steel",
+      "art": "soundwave",
+      "title": "Guitars with metal cones",
+      "who": "John Dopyera and George Beauchamp",
+      "where": "Los Angeles, California, USA",
+      "country": "United States",
+      "text": "John Dopyera built guitars with thin aluminium cones under the bridge, working like loudspeakers. He and George Beauchamp founded the National String Instrument Corporation in 1927. In 1928 Dopyera and his brothers started Dobro, whose single cone was cheaper and louder.",
+      "why": "Guitarists were desperate to be heard over horns and drums, and this was the loudest answer before electricity.",
+      "box": "body",
+      "sources": [
+        22,
+        26
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931 (prototype), 1932 (sold)",
+      "era": "electric",
+      "art": "magnet",
+      "key": true,
+      "title": "The Frying Pan",
+      "who": "George Beauchamp, Paul Barth and Adolph Rickenbacker",
+      "where": "Los Angeles, California, USA",
+      "country": "United States",
+      "text": "George Beauchamp and Paul Barth built a pickup: a coil of wire under the strings, with two horseshoe magnets arching over them. Adolph Rickenbacker’s company made it from cast aluminium from 1932, as a lap steel guitar nicknamed the Frying Pan. The patent came in 1937.",
+      "why": "It is widely considered the first commercially successful electric guitar.",
+      "box": "pickups",
+      "sources": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "1934",
+      "era": "electric",
+      "art": "person",
+      "title": "Two fingers, one legend",
+      "who": "Django Reinhardt",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "In 1928 a fire badly burned two fingers of Django Reinhardt’s left hand. He taught himself to play again using mostly his index and middle fingers. In 1934 he and violinist Stéphane Grappelli formed the Quintette du Hot Club de France.",
+      "why": "It was among the first jazz bands to put the guitar out in front as a lead instrument.",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "1936, then 1939",
+      "era": "electric",
+      "art": "coil",
+      "key": true,
+      "title": "The electric guitar joins the band",
+      "who": "Gibson; Charlie Christian",
+      "where": "Kalamazoo, Michigan, USA",
+      "country": "United States",
+      "text": "In 1936 Gibson launched the ES-150, a hollow Spanish-style guitar with a pickup, sold with an amplifier. Charlie Christian bought one and in 1939 joined Benny Goodman’s band. Now a guitar was loud enough to take solos in a big band.",
+      "why": "It was the first commercially successful Spanish-style electric guitar, and its pickup became known as the Charlie Christian pickup.",
+      "box": "pickups",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "c. 1940",
+      "era": "electric",
+      "art": "guitar",
+      "title": "The Log",
+      "who": "Les Paul",
+      "where": "Epiphone factory, New York City, USA",
+      "country": "United States",
+      "text": "Hollow electric guitars howled with feedback when played loud. Les Paul built the Log from a solid 4-by-4-inch length of Douglas fir, with a bridge and a pickup on top. A solid body barely vibrates, so the sound comes from the strings and pickup alone.",
+      "why": "It showed that an electric guitar did not need a hollow body at all.",
+      "box": "anatomy",
+      "sources": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "1941–1947",
+      "era": "steel",
+      "art": "earth",
+      "title": "Hawaiian guitar in Calcutta",
+      "who": "Tau Moe",
+      "where": "Calcutta (today Kolkata), India",
+      "country": "India",
+      "text": "Tau Moe, a Samoan-born musician raised in Hawaii, first toured India in the late 1920s. He lived in Calcutta from 1941 to 1947, where his family performed, taught Hawaiian guitar and built steel guitars. By the 1960s the steel guitar was common in Indian popular and film music.",
+      "why": "The Hawaiian slide guitar took root in India and grew into a new classical instrument.",
+      "sources": [
+        32,
+        19
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "1945",
+      "era": "electric",
+      "art": "person",
+      "key": true,
+      "title": "The godmother of rock and roll",
+      "who": "Sister Rosetta Tharpe",
+      "where": "USA",
+      "country": "United States",
+      "text": "Sister Rosetta Tharpe sang gospel while playing driving electric guitar, and was a star from the late 1930s. Her 1945 record \"Strange Things Happening Every Day\" reached No. 2 on the Billboard race records chart and is called by some the first rock and roll record. Elvis Presley, Chuck Berry and Little Richard all learned from her.",
+      "why": "The Rock & Roll Hall of Fame calls her the first guitar heroine of rock and roll.",
+      "sources": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1950–1951",
+      "era": "electric",
+      "art": "guitar",
+      "key": true,
+      "title": "The first mass-produced solid-body",
+      "who": "Leo Fender",
+      "where": "Fullerton, California, USA",
+      "country": "United States",
+      "text": "Leo Fender made a simple solid guitar with a bolt-on neck, easy to build and fix. It came out in 1950 as the Esquire and Broadcaster, and was renamed the Telecaster in 1951 after a clash over the Broadcaster name. Factories could now make electric guitars like any other product.",
+      "why": "The Telecaster and Esquire were the first mass-produced, commercially successful solid-body electric guitars.",
+      "box": "anatomy",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1952",
+      "era": "electric",
+      "art": "guitar",
+      "title": "The Gibson Les Paul",
+      "who": "Gibson, Ted McCarty and Les Paul",
+      "where": "Kalamazoo, Michigan, USA",
+      "country": "United States",
+      "text": "Gibson answered Fender with its own solid-body guitar, named after Les Paul, who helped with the design. It had a carved top and a thick, heavy body. It went on sale in 1952.",
+      "why": "The Les Paul and the Telecaster set the two main styles of solid electric guitar.",
+      "box": "anatomy",
+      "sources": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954",
+      "era": "electric",
+      "art": "guitar",
+      "title": "The Stratocaster",
+      "who": "Leo Fender, Bill Carson, George Fullerton, Freddie Tavares and others",
+      "where": "Fullerton, California, USA",
+      "country": "United States",
+      "text": "Fender’s second solid guitar had a curved, comfortable body, three pickups and a vibrato bar that bends the pitch. Each pickup sits at a different distance from the bridge, so each hears the string’s vibration differently. It went into production in 1954.",
+      "why": "The Stratocaster became one of the most copied guitar shapes in the world.",
+      "box": "pickups",
+      "sources": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "filed 1955, granted 1959",
+      "era": "electric",
+      "art": "coil",
+      "key": true,
+      "title": "The humbucker",
+      "who": "Seth Lover (Gibson)",
+      "where": "Kalamazoo, Michigan, USA",
+      "country": "United States",
+      "text": "A single coil picks up hum from mains wiring as well as the strings. Seth Lover put two coils side by side with opposite magnets, wired so the hum cancels but the string signal adds up. Gibson used it from 1957, and the patent (US 2,896,491) was granted in 1959.",
+      "why": "The humbucker gave a quieter, fatter sound, and most electric guitars now use one or a single-coil design.",
+      "box": "pickups",
+      "sources": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "31 March 1958",
+      "era": "loud",
+      "art": "bolt",
+      "title": "Rumble",
+      "who": "Link Wray",
+      "where": "USA",
+      "country": "United States",
+      "text": "Link Wray wanted his record to sound as raw as his live shows, so he poked a pencil through his amplifier’s speaker cone. \"Rumble\" was full of fuzzy, overdriven power chords, and some radio stations refused to play it. It reached No. 16 on the US pop chart.",
+      "why": "Distortion went from an accident to something guitarists did on purpose.",
+      "box": "amp",
+      "sources": [
+        43,
+        45
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "loud",
+      "art": "plug",
+      "title": "Fuzz in a box",
+      "who": "Glenn Snoddy and Revis Hobbs; Gibson (Maestro)",
+      "where": "Nashville, Tennessee, USA",
+      "country": "United States",
+      "text": "In 1961 a faulty mixing desk in Nashville turned a guitar part fuzzy on a Marty Robbins record. Two engineers built a circuit to make that sound on purpose, and Gibson sold it in 1962 as the Maestro FZ-1 Fuzz-Tone. After Keith Richards used one on \"Satisfaction\" in 1965, sales jumped.",
+      "why": "Clipping the top off the signal adds new harmonics, and that sound became the voice of rock.",
+      "box": "amp",
+      "sources": [
+        44,
+        45
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "9 February 1964",
+      "era": "loud",
+      "art": "person",
+      "title": "The Beatles on television",
+      "who": "The Beatles",
+      "where": "New York City, USA",
+      "country": "United States",
+      "text": "More than 73 million Americans watched the Beatles play on The Ed Sullivan Show. It set a record for US television at the time. The night inspired many young viewers to pick up guitars and form bands.",
+      "why": "Two electric guitars, a bass and drums became the standard rock band.",
+      "sources": [
+        46,
+        47
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "1967",
+      "era": "loud",
+      "art": "notes",
+      "key": true,
+      "title": "Ragas on a slide guitar",
+      "who": "Brij Bhushan Kabra",
+      "where": "India",
+      "country": "India",
+      "text": "Brij Bhushan Kabra discovered the Hawaiian slide guitar in Kolkata and promised his father he would play only classical music on it. He added drone and sympathetic strings, and became the first Indian musician to play ragas on the guitar. In 1967 he recorded Call of the Valley with Shivkumar Sharma and Hariprasad Chaurasia.",
+      "why": "Call of the Valley became one of the best-selling Indian music albums worldwide and made the guitar a classical Indian instrument.",
+      "box": "strings",
+      "sources": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "recorded 1992, Grammy 1994",
+      "era": "loud",
+      "art": "trophy",
+      "title": "A meeting by the river",
+      "who": "Vishwa Mohan Bhatt and Ry Cooder",
+      "where": "India and USA",
+      "country": "India",
+      "text": "Vishwa Mohan Bhatt from Jaipur plays the Mohan veena, a slide guitar he rebuilt with extra drone and sympathetic strings. He and the American guitarist Ry Cooder met half an hour before recording A Meeting by the River in one evening. The album won the Grammy for Best World Music Album at the 1994 awards.",
+      "why": "A guitar reshaped in India won one of music’s biggest prizes.",
+      "sources": [
+        52,
+        51,
+        53
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known picture of a lute",
+      "value": "c. 3100 BCE",
+      "who": "Cylinder seal, Mesopotamia"
+    },
+    {
+      "label": "First printed book of vihuela music",
+      "value": "1536",
+      "who": "Luys Milán, Spain"
+    },
+    {
+      "label": "First known guitar treatise in Europe",
+      "value": "1596",
+      "who": "Joan Carles Amat, Spain"
+    },
+    {
+      "label": "Earliest surviving six-string guitar (widely considered)",
+      "value": "1779",
+      "who": "Gaetano Vinaccia, Italy"
+    },
+    {
+      "label": "First commercially successful electric guitar",
+      "value": "1932",
+      "who": "Rickenbacker Frying Pan, USA"
+    },
+    {
+      "label": "First mass-produced solid-body electric guitar",
+      "value": "1950",
+      "who": "Fender Esquire and Broadcaster, USA"
+    },
+    {
+      "label": "Hum-cancelling guitar pickup patented",
+      "value": "1959",
+      "who": "Seth Lover, Gibson, USA"
+    },
+    {
+      "label": "First Indian musician to play ragas on the guitar",
+      "value": "Call of the Valley, 1967",
+      "who": "Brij Bhushan Kabra, India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ziryab",
+      "life": "789 – 857",
+      "role": "Musician and teacher",
+      "from": "Baghdad, then Córdoba",
+      "note": "Said to have added a fifth string to the oud, and founded a music school in al-Andalus."
+    },
+    {
+      "name": "Antonio de Torres Jurado",
+      "life": "1817 – 1892",
+      "role": "Guitar maker",
+      "from": "Spain",
+      "note": "Built bigger guitars with thin, fan-braced tops: the plan of the modern classical guitar."
+    },
+    {
+      "name": "Christian Frederick Martin",
+      "life": "1796 – 1873",
+      "role": "Guitar maker",
+      "from": "Saxony (Germany), then USA",
+      "note": "Founded C. F. Martin & Co., the company credited with X-bracing."
+    },
+    {
+      "name": "Joseph Kekuku",
+      "life": "c. 1874 – 1932",
+      "role": "Steel guitarist",
+      "from": "Hawaii",
+      "note": "Credited with inventing Hawaiian steel guitar playing with a sliding steel bar."
+    },
+    {
+      "name": "Maybelle Carter",
+      "life": "1909 – 1978",
+      "role": "Guitarist and singer",
+      "from": "USA",
+      "note": "Her Carter scratch let one guitar carry melody and rhythm together."
+    },
+    {
+      "name": "George Beauchamp",
+      "life": "1899 – 1941",
+      "role": "Inventor and musician",
+      "from": "USA",
+      "note": "Co-founded National and designed the Frying Pan, the first commercially successful electric guitar."
+    },
+    {
+      "name": "Django Reinhardt",
+      "life": "1910 – 1953",
+      "role": "Jazz guitarist",
+      "from": "Belgium, then France",
+      "note": "Played lead jazz guitar with mostly two fingers of his burned left hand."
+    },
+    {
+      "name": "Sister Rosetta Tharpe",
+      "life": "1915 – 1973",
+      "role": "Singer and guitarist",
+      "from": "USA",
+      "note": "Gospel star on electric guitar, called the godmother of rock and roll."
+    },
+    {
+      "name": "Les Paul",
+      "life": "1915 – 2009",
+      "role": "Guitarist and inventor",
+      "from": "USA",
+      "note": "Built the solid-body Log and pioneered multitrack recording."
+    },
+    {
+      "name": "Leo Fender",
+      "life": "1909 – 1991",
+      "role": "Inventor and manufacturer",
+      "from": "USA",
+      "note": "Made the Telecaster and Stratocaster, easy to build and easy to fix."
+    },
+    {
+      "name": "Seth Lover",
+      "life": "1910 – 1997",
+      "role": "Electronics engineer",
+      "from": "USA",
+      "note": "Invented Gibson’s humbucker, which cancels electrical hum."
+    },
+    {
+      "name": "Brij Bhushan Kabra",
+      "life": "1937 – 2018",
+      "role": "Slide guitarist",
+      "from": "India",
+      "note": "Adapted the Hawaiian guitar for ragas and is called the father of Hindustani slide guitar."
+    }
+  ],
+  "series": [
+    {
+      "id": "martin",
+      "title": "How many guitars Martin has made",
+      "unit": "guitars",
+      "log": false,
+      "after": "loud",
+      "caption": "The last serial number Martin gave out each year. Numbering began in 1898 at 8,000, Martin’s estimate of the guitars it had made since 1833.",
+      "points": [
+        {
+          "year": 1898,
+          "value": 8348,
+          "label": "Last serial of 1898: 8,348 (Martin)"
+        },
+        {
+          "year": 1920,
+          "value": 15848,
+          "label": "Last serial of 1920: 15,848 (Martin)"
+        },
+        {
+          "year": 1930,
+          "value": 45317,
+          "label": "Last serial of 1930: 45,317 (Martin)"
+        },
+        {
+          "year": 1940,
+          "value": 76734,
+          "label": "Last serial of 1940: 76,734 (Martin)"
+        },
+        {
+          "year": 1950,
+          "value": 117961,
+          "label": "Last serial of 1950: 117,961 (Martin)"
+        },
+        {
+          "year": 1960,
+          "value": 175689,
+          "label": "Last serial of 1960: 175,689 (Martin)"
+        },
+        {
+          "year": 1970,
+          "value": 271633,
+          "label": "Last serial of 1970: 271,633 (Martin)"
+        },
+        {
+          "year": 1980,
+          "value": 430300,
+          "label": "Last serial of 1980: 430,300 (Martin)"
+        },
+        {
+          "year": 1990,
+          "value": 503309,
+          "label": "Last serial of 1990: 503,309 (Martin)"
+        },
+        {
+          "year": 2000,
+          "value": 780500,
+          "label": "Last serial of 2000: 780,500 (Martin)"
+        },
+        {
+          "year": 2004,
+          "value": 1042558,
+          "label": "Last serial of 2004: 1,042,558, past one million (Martin)"
+        },
+        {
+          "year": 2010,
+          "value": 1473461,
+          "label": "Last serial of 2010: 1,473,461 (Martin)"
+        },
+        {
+          "year": 2020,
+          "value": 2454224,
+          "label": "Last serial of 2020: 2,454,224 (Martin)"
+        },
+        {
+          "year": 2025,
+          "value": 3043480,
+          "label": "Last serial of 2025: 3,043,480 (Martin)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The six strings of a light acoustic set pull on the neck with about 160 pounds (73 kg) of force in total, roughly the weight of a grown man.",
+    "Antonio de Torres built a guitar with a papier-mâché back and sides in 1862, to prove that the top makes the sound.",
+    "Joseph Kekuku said the Hawaiian steel guitar began when he picked up a bolt on a road in Honolulu and slid it along his strings.",
+    "The Broadcaster was renamed the Telecaster because Gretsch already sold \"Broadkaster\" drums. Guitars made in between, with the name cut off the decal, are called Nocasters.",
+    "Vishwa Mohan Bhatt and Ry Cooder met only half an hour before recording their Grammy-winning album, and made it in one evening."
+  ],
+  "sources": [
+    {
+      "title": "Guitar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guitar"
+    },
+    {
+      "title": "Oud",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oud"
+    },
+    {
+      "title": "Vihuela",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vihuela"
+    },
+    {
+      "title": "The Spanish Guitar",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/essays/the-spanish-guitar"
+    },
+    {
+      "title": "Baroque guitar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baroque_guitar"
+    },
+    {
+      "title": "Treatise on the guitar by Joan Carles i Amat",
+      "publisher": "Arxiu Històric de la Ciutat de Barcelona",
+      "url": "https://ajuntament.barcelona.cat/arxiumunicipal/arxiuhistoric/en/treatise-guitar-joan-carles-i-amat-seventeenth-century-edition-achb-historical-archives-city"
+    },
+    {
+      "title": "Instrucción de música sobre la guitarra española (Gaspar Sanz, 1674)",
+      "publisher": "Biblioteca Nacional de España",
+      "url": "https://bdh.bne.es/bnesearch/detalle/3420051"
+    },
+    {
+      "title": "Gaspar Sanz",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gaspar_Sanz"
+    },
+    {
+      "title": "The Rawlins Stradivarius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Rawlins_Stradivarius"
+    },
+    {
+      "title": "Guitar, The Rawlins, 1700 (Guitar Heroes)",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://blog.metmuseum.org/guitarheroes/guitar-the-rawlins-1700/"
+    },
+    {
+      "title": "Romantic guitar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Romantic_guitar"
+    },
+    {
+      "title": "Fabricatore Guitar",
+      "publisher": "Smithsonian National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_605735"
+    },
+    {
+      "title": "Antonio de Torres Jurado",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antonio_de_Torres_Jurado"
+    },
+    {
+      "title": "C. F. Martin & Company",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/C._F._Martin_%26_Company"
+    },
+    {
+      "title": "Martin History",
+      "publisher": "C. F. Martin & Co.",
+      "url": "https://www.martinguitar.com/about-martin-martin-history.html"
+    },
+    {
+      "title": "Dating Your Martin: A Quick Reference (serial numbers)",
+      "publisher": "C. F. Martin & Co.",
+      "url": "https://www.martinguitar.com/support-serial-number-lookup.html"
+    },
+    {
+      "title": "Christian Frederick Martin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christian_Frederick_Martin"
+    },
+    {
+      "title": "Dreadnought (guitar type)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dreadnought_(guitar_type)"
+    },
+    {
+      "title": "Joseph Kekuku",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Kekuku"
+    },
+    {
+      "title": "Steel guitar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steel_guitar"
+    },
+    {
+      "title": "Bristol sessions",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bristol_sessions"
+    },
+    {
+      "title": "Maybelle Carter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maybelle_Carter"
+    },
+    {
+      "title": "Resonator guitar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Resonator_guitar"
+    },
+    {
+      "title": "Frying Pan (guitar)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frying_Pan_(guitar)"
+    },
+    {
+      "title": "Rickenbacker A-22 Model \"Frying Pan\" Electro Hawaiian Guitar",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/art/collection/search/729575"
+    },
+    {
+      "title": "US2089171A: Electrical stringed musical instrument",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2089171A/en"
+    },
+    {
+      "title": "George Beauchamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Beauchamp"
+    },
+    {
+      "title": "Django Reinhardt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Django_Reinhardt"
+    },
+    {
+      "title": "Gibson ES-150",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gibson_ES-150"
+    },
+    {
+      "title": "Electric guitar",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/art/electric-guitar"
+    },
+    {
+      "title": "Les Paul",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Les_Paul"
+    },
+    {
+      "title": "Les Paul Standard guitar",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/art/Les-Paul-Standard-guitar"
+    },
+    {
+      "title": "Tau Moe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tau_Moe"
+    },
+    {
+      "title": "Sister Rosetta Tharpe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sister_Rosetta_Tharpe"
+    },
+    {
+      "title": "Sister Rosetta Tharpe",
+      "publisher": "Rock & Roll Hall of Fame",
+      "url": "https://rockhall.com/inductees/sister-rosetta-tharpe/"
+    },
+    {
+      "title": "Sister Rosetta Tharpe, From Gospel to Electric Guitar-Driven Rock n Roll",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.si.edu/collections/snapshot/sister-rosetta-tharpe-gospel-electric-guitar-driven-rock-n-roll"
+    },
+    {
+      "title": "Fender Telecaster",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fender_Telecaster"
+    },
+    {
+      "title": "Fender Telecaster",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/art/Fender-Telecaster"
+    },
+    {
+      "title": "Fender Stratocaster",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fender_Stratocaster"
+    },
+    {
+      "title": "Fender Stratocaster",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/art/Fender-Stratocaster"
+    },
+    {
+      "title": "Humbucker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Humbucker"
+    },
+    {
+      "title": "US2896491A: Magnetic pickup for stringed musical instrument",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2896491A/en"
+    },
+    {
+      "title": "Seth Lover",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Seth_Lover"
+    },
+    {
+      "title": "Rumble (instrumental)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rumble_(instrumental)"
+    },
+    {
+      "title": "Maestro FZ-1 Fuzz-Tone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maestro_FZ-1_Fuzz-Tone"
+    },
+    {
+      "title": "Distortion (music)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Distortion_(music)"
+    },
+    {
+      "title": "The Beatles on The Ed Sullivan Show",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles_on_The_Ed_Sullivan_Show"
+    },
+    {
+      "title": "On This Day in 1964, 73 Million Americans Tuned in to Watch the Biggest Act in Music",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/on-this-day-in-1964-73-million-americans-tuned-in-to-watch-the-biggest-act-in-music-180985986/"
+    },
+    {
+      "title": "Brij Bhushan Kabra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brij_Bhushan_Kabra"
+    },
+    {
+      "title": "Call of the Valley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Call_of_the_Valley"
+    },
+    {
+      "title": "Indian slide guitar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_slide_guitar"
+    },
+    {
+      "title": "Vishwa Mohan Bhatt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vishwa_Mohan_Bhatt"
+    },
+    {
+      "title": "A Meeting by the River",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Meeting_by_the_River"
+    },
+    {
+      "title": "Pt. Vishwa Mohan Bhatt: Padma Bhushan and Grammy Award Winner",
+      "publisher": "vishwamohanbhatt.com",
+      "url": "https://www.vishwamohanbhatt.com/music-release.html"
+    },
+    {
+      "title": "EJ16 Phosphor Bronze Light 12-53: string tension chart",
+      "publisher": "D'Addario",
+      "url": "https://www.daddario.com/products/guitar/acoustic-guitar/phosphor-bronze/ej16-phosphor-bronze-acoustic-guitar-strings-light-12-53/"
+    }
+  ]
+}
